@@ -1,5 +1,6 @@
 ## I'm James 👋
 Sometimes I put stuff on here to be cool and smart.
+
 [My AI](https://chat.openai.com/g/g-4Ywacg0Tt-jamescareergpt)
 [LinkedIn](https://www.linkedin.com/in/james--coleman/)
 [Personal Website](https://www.jecolemans.com/)
@@ -13,16 +14,13 @@ Sometimes I put stuff on here to be cool and smart.
  - AI
  - Business Metrics 
 
-Here are some of the really cool projects that I have done recently. Check them out! Most are open-source :)
 
 ## Philosophies
 
 - Pareto Principle: 80% of results come from 20% of the effort.
 - Build fast and iterate: Treat ideas as hypotheses. No one is Nostradamus.
 
-## James AI
-Link: [JamesCareerGPT](https://chat.openai.com/g/g-4Ywacg0Tt-jamescareergpt).
-
+## Projects
 ## Misfit Munchies
 
 [Website])(https://www.misfit-munchies.com/)
