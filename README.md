@@ -5,8 +5,6 @@ Sometimes I put stuff on here to be cool and smart.
 - [LinkedIn](https://www.linkedin.com/in/james--coleman/)
 - [Personal Website](https://www.jecolemans.com/)
 - [Email](mailto:jamescscoleman@gmail.com) 
-
-
   
 ## Ask me about
  - Hardware
@@ -14,15 +12,21 @@ Sometimes I put stuff on here to be cool and smart.
  - AI
  - Business Metrics 
 
-
 ## Philosophies
 
 - Pareto Principle: 80% of results come from 20% of the effort.
 - Build fast and iterate: Treat ideas as hypotheses. No one is Nostradamus.
 
-## Projects
-## Misfit Munchies
+# Projects
 
+## PhoneBelt
+- Mechanical: Fusion360
+- Electrical: KiCAD
+- Software: Arduino, Segger Embedded Studio, VSCode, STM32CubeIDE, Flutter (Dart)
+- Tools: Scrum, Slack, Gantt Charts, Iterative Development
+- Organizations: NSF I-Corps, Cornell University Hardware Accelerator Rev, CLU Hub101 Incubator
+
+## Misfit Munchies
 [Website](https://www.misfit-munchies.com/)
 
 ### Car-ching App
@@ -31,9 +35,7 @@ Sometimes I put stuff on here to be cool and smart.
 - Expo
 
 [Figma](https://www.figma.com/file/kUBiJlgO5C4dgNS49pelCO/Car-Ching-v2.3?type=design&node-id=0%3A1&mode=design&t=hg5Vm1gAALJiSWBH-1)
-
 [GitHub](https://github.com/jamescscoleman/Car-Ching)
-
 [Website](https://www.downloadching.com/)
 
 ## Flight Delays Model
@@ -55,8 +57,7 @@ Sometimes I put stuff on here to be cool and smart.
 - Shopify
 - Meta Ads
 
-[Downloadable designs](https://github.com/jamescscoleman/BestDayUSADesigns)
-
+[Designs](https://github.com/jamescscoleman/BestDayUSADesigns)
 [Etsy](https://www.etsy.com/shop/BestDayUSA)
 
 ## Drinky: Innovating Social Gatherings
@@ -79,10 +80,5 @@ Sometimes I put stuff on here to be cool and smart.
 - R
 - Python (Beautifulsoup4)
 - Options Contracts
-
-[LinkedIn](https://www.linkedin.com/in/james--coleman/)
-[Personal Website](https://www.jecolemans.com/)
-[Email](mailto:jamescscoleman@gmail.com) 
-
 
 
