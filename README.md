@@ -1,20 +1,17 @@
 ## I'm James 👋
 Sometimes I put stuff on here to be cool and smart.
+[My AI](https://chat.openai.com/g/g-4Ywacg0Tt-jamescareergpt)
+[LinkedIn](https://www.linkedin.com/in/james--coleman/)
+[Personal Website](https://www.jecolemans.com/)
+[Email](mailto:jamescscoleman@gmail.com) 
+
+
   
-# 💬 Ask me about
- Hardware
- User Experience
- AI
- Business Metrics 
-
-
-Cool projects:
-
-[Email](mailto:your-email@example.com) |
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-username/) |
-[GitHub](https://github.com/jamescscoleman)
-
-## Welcome
+# Ask me about
+ - Hardware
+ - User Experience
+ - AI
+ - Business Metrics 
 
 Here are some of the really cool projects that I have done recently. Check them out! Most are open-source :)
 
@@ -89,8 +86,6 @@ Link: [JamesCareerGPT](https://chat.openai.com/g/g-4Ywacg0Tt-jamescareergpt).
 [LinkedIn](https://www.linkedin.com/in/james--coleman/)
 [Personal Website](https://www.jecolemans.com/)
 [Email](mailto:jamescscoleman@gmail.com) 
-
-
 
 
 
