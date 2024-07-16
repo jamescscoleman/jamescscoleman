@@ -40,7 +40,7 @@ NFL Api with Shiny (api deprecated 😞)
 RShiny
 Personal Site (not maintained)
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/james--coleman/)
+[LinkedIn](https://www.linkedin.com/in/james--coleman/)
 
 
 
