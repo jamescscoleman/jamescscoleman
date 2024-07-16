@@ -23,19 +23,18 @@ Sometimes I put stuff on here to be cool and smart.
 ## Projects
 ## Misfit Munchies
 
-[Website])(https://www.misfit-munchies.com/)
+[Website](https://www.misfit-munchies.com/)
 
 ### Car-ching App
-
 - Figma
 - JavaScript (Reacts Native)
 - Expo
 
-[Figma app: Car-Ching v2.3 Design](https://www.figma.com/file/kUBiJlgO5C4dgNS49pelCO/Car-Ching-v2.3?type=design&node-id=0%3A1&mode=design&t=hg5Vm1gAALJiSWBH-1)
+[Figma](https://www.figma.com/file/kUBiJlgO5C4dgNS49pelCO/Car-Ching-v2.3?type=design&node-id=0%3A1&mode=design&t=hg5Vm1gAALJiSWBH-1)
 
-[GitHub: Car-Ching on GitHub](https://github.com/jamescscoleman/Car-Ching)
+[GitHub](https://github.com/jamescscoleman/Car-Ching)
 
-[Website: Car-Ching](https://www.downloadching.com/)
+[Website](https://www.downloadching.com/)
 
 ## Flight Delays Model
 - R
@@ -47,7 +46,7 @@ Sometimes I put stuff on here to be cool and smart.
 - Fusion360
 - Fiverr
 
-[CAD link](https://github.com/jamescscoleman/Old-Project-Archive)
+[CAD](https://github.com/jamescscoleman/Old-Project-Archive)
 
 ## BestDayUSA
 - Canva
@@ -58,7 +57,7 @@ Sometimes I put stuff on here to be cool and smart.
 
 [Downloadable designs](https://github.com/jamescscoleman/BestDayUSADesigns)
 
-[Etsy shop](https://www.etsy.com/shop/BestDayUSA)
+[Etsy](https://www.etsy.com/shop/BestDayUSA)
 
 ## Drinky: Innovating Social Gatherings
 -Fusion360
