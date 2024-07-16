@@ -9,7 +9,6 @@ Sometimes I put stuff on here to be cool and smart.
 
 
 Cool projects:
-# JAMES COLEMAN
 
 [Email](mailto:your-email@example.com) |
 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/) |
