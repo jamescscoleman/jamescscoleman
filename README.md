@@ -17,8 +17,9 @@ Sometimes I put stuff on here to be cool and smart.
 - Pareto Principle: 80% of results come from 20% of the effort.
 - Build fast and iterate: Treat ideas as hypotheses. No one is Nostradamus.
 
+
+
 ## Projects
-check them out!
 
 ### PhoneBelt
 - Mechanical: Fusion360
@@ -34,6 +35,7 @@ check them out!
 - Figma
 - JavaScript (Reacts Native)
 - Expo
+
 [Figma](https://www.figma.com/file/kUBiJlgO5C4dgNS49pelCO/Car-Ching-v2.3?type=design&node-id=0%3A1&mode=design&t=hg5Vm1gAALJiSWBH-1)
 [GitHub](https://github.com/jamescscoleman/Car-Ching)
 [Website](https://www.downloadching.com/)
@@ -43,11 +45,13 @@ check them out!
 - DPLYR
 - GGPLOT2
 - RShiny
+
 [Link](https://github.com/jamescscoleman/Flight-Delay-Prediction-Model)
 
 ### Redesigned Food Container
 - Fusion360
 - Fiverr
+
 [CAD](https://github.com/jamescscoleman/Old-Project-Archive)
 
 ### BestDayUSA
@@ -56,11 +60,13 @@ check them out!
 - Etsy
 - Shopify
 - Meta Ads
+
 [Designs](https://github.com/jamescscoleman/BestDayUSADesigns)
 [Etsy](https://www.etsy.com/shop/BestDayUSA)
 
 ### Drinky: Innovating Social Gatherings
 -Fusion360
+
 [CAD](https://github.com/jamescscoleman/DrinkyCAD).
 
 ### WerkHaus
