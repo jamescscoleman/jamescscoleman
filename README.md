@@ -1,10 +1,8 @@
 ### I'm James 👋
 Sometimes I put stuff on here to be cool and smart.
 
-- [My AI](https://chat.openai.com/g/g-4Ywacg0Tt-jamescareergpt)
 - [LinkedIn](https://www.linkedin.com/in/james--coleman/)
 - [Personal Website](https://www.jecolemans.com/)
-- [Email](mailto:jamescscoleman@gmail.com) 
   
 ### Ask me about
  - Hardware
@@ -28,7 +26,10 @@ Sometimes I put stuff on here to be cool and smart.
 - Tools: Scrum, Slack, Gantt Charts, Iterative Development
 - Organizations: NSF I-Corps, Cornell University Hardware Accelerator Rev, CLU Hub101 Incubator
 
+[Link] (https://github.com/jamescscoleman/PhoneBelt)
+
 ### Misfit Munchies
+*won the 2024 New Venture Fair*
 [Website](https://www.misfit-munchies.com/)
 
 ### Car-ching App
@@ -72,6 +73,9 @@ Sometimes I put stuff on here to be cool and smart.
 ### WerkHaus
 - CSS
 - HTML
+
+*Won Techstars Startup Weekend 2022*
+[Website] No longer maintained :(
 
 ### Unplug Box 
 - Manufacturing
