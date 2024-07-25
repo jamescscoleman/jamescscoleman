@@ -26,10 +26,11 @@ Sometimes I put stuff on here to be cool and smart.
 - Tools: Scrum, Slack, Gantt Charts, Iterative Development
 - Organizations: NSF I-Corps, Cornell University Hardware Accelerator Rev, CLU Hub101 Incubator
 
-[Link] (https://github.com/jamescscoleman/PhoneBelt)
+[Link](https://github.com/jamescscoleman/PhoneBelt)
 
 ### Misfit Munchies
 *won the 2024 New Venture Fair*
+
 [Website](https://www.misfit-munchies.com/)
 
 ### Car-ching App
@@ -75,6 +76,7 @@ Sometimes I put stuff on here to be cool and smart.
 - HTML
 
 *Won Techstars Startup Weekend 2022*
+
 [Website] No longer maintained :(
 
 ### Unplug Box 
