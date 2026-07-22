@@ -7,7 +7,7 @@ Sometimes I put stuff on here to be cool and smart.
 ### Ask me about
  - Hardware
  - User Experience
- - Data Visualiziations
+ - Data Visualizations
  - Business Metrics 
 
 ### Philosophies
@@ -26,16 +26,16 @@ Sometimes I put stuff on here to be cool and smart.
 - Tools: Scrum, Slack, Gantt Charts, Iterative Development
 - Organizations: NSF I-Corps, Cornell University Hardware Accelerator Rev, CLU Hub101 Incubator
 
-[Link](https://github.com/jamescscoleman/PhoneBelt)
+[Website](https://jecolemans.com/projects/phonebelt)
 
 ### Misfit Munchies
 *won the 2024 New Venture Fair*
 
-[Website](https://www.misfit-munchies.com/)
+[UpPup Treats (formerly Misfit Munchies)](https://www.uppuptreats.com/)
 
 ### Car-ching App
 - Figma
-- JavaScript (Reacts Native)
+- JavaScript (React Native)
 - Expo
 
 [Figma](https://www.figma.com/file/kUBiJlgO5C4dgNS49pelCO/Car-Ching-v2.3?type=design&node-id=0%3A1&mode=design&t=hg5Vm1gAALJiSWBH-1)
@@ -67,17 +67,15 @@ Sometimes I put stuff on here to be cool and smart.
 [Etsy](https://www.etsy.com/shop/BestDayUSA)
 
 ### Drinky: Innovating Social Gatherings
--Fusion360
+- Fusion360
 
-[CAD](https://github.com/jamescscoleman/DrinkyCAD).
+[CAD](https://github.com/jamescscoleman/DrinkyCAD)
 
 ### WerkHaus
 - CSS
 - HTML
 
 *Won Techstars Startup Weekend 2022*
-
-[Website] No longer maintained :(
 
 ### Unplug Box 
 - Manufacturing
