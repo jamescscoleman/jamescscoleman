@@ -59,12 +59,6 @@ Sometimes I put stuff on here to be cool and smart.
 
 [CAD](https://github.com/jamescscoleman/DrinkyCAD)
 
-### WerkHaus
-- CSS
-- HTML
-
-*Won Techstars Startup Weekend 2022*
-
 ### Unplug Box 
 - Manufacturing
 - International Shipping
