@@ -4,12 +4,6 @@ Sometimes I put stuff on here to be cool and smart.
 - [LinkedIn](https://www.linkedin.com/in/james--coleman/)
 - [Personal Website](https://www.jecolemans.com/)
   
-### Ask me about
- - Hardware
- - User Experience
- - Data Visualizations
- - Business Metrics 
-
 ### Philosophies
 
 - Pareto Principle: 80% of results come from 20% of the effort.
@@ -23,8 +17,7 @@ Sometimes I put stuff on here to be cool and smart.
 - Mechanical: Fusion360
 - Electrical: KiCAD
 - Software: Arduino, Segger Embedded Studio, VSCode, STM32CubeIDE, Flutter (Dart)
-- Tools: Scrum, Slack, Gantt Charts, Iterative Development
-- Organizations: NSF I-Corps, Cornell University Hardware Accelerator Rev, CLU Hub101 Incubator
+- Programs: NSF I-Corps, Cornell Rev, Hub101
 
 [Website](https://jecolemans.com/projects/phonebelt)
 
