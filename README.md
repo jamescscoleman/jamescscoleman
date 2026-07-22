@@ -21,11 +21,6 @@ Sometimes I put stuff on here to be cool and smart.
 
 [Website](https://jecolemans.com/projects/phonebelt)
 
-### Misfit Munchies
-*won the 2024 New Venture Fair*
-
-[UpPup Treats (formerly Misfit Munchies)](https://www.uppuptreats.com/)
-
 ### Car-ching App
 - Figma
 - JavaScript (React Native)
