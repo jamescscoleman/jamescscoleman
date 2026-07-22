@@ -63,8 +63,6 @@ Sometimes I put stuff on here to be cool and smart.
 - Manufacturing
 - International Shipping
 - 3PL Logistics
-- Shopify
-- Amazon FBA
 
 ### Equity Research
 - FRED
