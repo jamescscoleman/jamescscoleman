@@ -23,7 +23,7 @@ Sometimes I put stuff on here to be cool and smart.
 
 ### Car-ching App
 - Figma
-- JavaScript (React Native)
+- React Native
 - Expo
 
 [Figma](https://www.figma.com/file/kUBiJlgO5C4dgNS49pelCO/Car-Ching-v2.3?type=design&node-id=0%3A1&mode=design&t=hg5Vm1gAALJiSWBH-1)
